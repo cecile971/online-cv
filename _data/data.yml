@@ -47,31 +47,17 @@ career-profile:
     summary: |
       Passionnée par l’écriture, je suis en quête de challenges et d’apprentissages de tout ce qui gravite autour de la communication digitale. Je m’intéresse également à tous types de médias, aussi bien sur supports papiers que numériques.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: DU Opérateur numérique
+      university: IUT de St Claude 971
+      time: 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Formation aux métiers du numérique : Marketing digital, gestion des réseaux sociaux, infographie, photograhie, BDD, Langage HTML et CSS.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Licence Communication et journalisme d'entreprise
+      university: Lycée St Félix Nantes - 44
+      time: 2001 - 2002
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Apprentissage et maitrise de différentes techniques rédactionnelles
 
 experiences:
     - role: Lead Developer
