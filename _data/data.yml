@@ -60,9 +60,9 @@ education:
         Apprentissage et maitrise de différentes techniques rédactionnelles
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Conseiller vente Immobilier
+      time: 2018
+      company: Laforet Baie Mahault - 971
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -73,9 +73,6 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -90,9 +87,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Manager/Formatrice
+      time: 2004 - 2014
+      company: Crédirec Nantes - 44
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
