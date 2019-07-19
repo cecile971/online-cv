@@ -129,17 +129,15 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: DU Opérateur numérique
-    university: IUT de St Claude 971
-    time: 2019
-    details: |
-        Formation aux métiers du numérique : Marketing digital, gestion des réseaux sociaux, infographie, photograhie, BDD, Langage HTML et CSS.
+    title: Diplômes
+    
+    diplome:
+      - title: DU Opérateur numérique
+      - university: IUT de St Claude 971
+      - time: 2019
+      - details: |
+            Formation aux métiers du numérique : Marketing digital, gestion des réseaux sociaux, infographie, photograhie, BDD, Langage HTML et CSS.
 
-
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
       - title: The Art of Computer Programming
