@@ -43,10 +43,10 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profil
     summary: |
       Passionnée par l’écriture, je suis en quête de challenges et d’apprentissages de tout ce qui gravite autour de la communication digitale. Je m’intéresse également à tous types de médias, aussi bien sur supports papiers que numériques.
-education:
+Parcours:
     - degree: DU Opérateur numérique
       university: IUT de St Claude 971
       time: 2019
@@ -59,25 +59,23 @@ education:
       details: |
         Apprentissage et maitrise de différentes techniques rédactionnelles
 
-experiences:
+Experiences:
     - role: Conseiller vente Immobilier
       time: 2018
       company: Laforet Baie Mahault - 971
       details: |
-        Mise en vente, gestion des biens immobiliers
         
 
-          - Bullet point
-          - Bullet point
+          - Mise en vente des biens immobiliers
+          - Gestion des visites et du portefeuille client
 
     - role: Manager/Formatrice
       time: 2004 - 2014
       company: Crédirec Nantes - 44
       details: |
-        Formation et montée en compétences des salariés et nouveaux embauchés.
 
-          - Bullet point
-          - Bullet point
+          - Formation et suivi des nouveaux salariés
+          - Montée en compétence des collaborateurs
 
 
 publications:
@@ -93,23 +91,16 @@ skills:
     title: Compétences techniques
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Photoshop
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 20%
-
-      - name: Angular
-        level: 98%
-
+      - name: Office
+        level: 100%
+       
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+     
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
