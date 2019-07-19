@@ -131,15 +131,13 @@ projects:
 publications:
     title: Diplômes
     
-    diplome:
+    papers:
       - title: DU Opérateur numérique
       - university: IUT de St Claude 971
       - time: 2019
       - details: |
             Formation aux métiers du numérique : Marketing digital, gestion des réseaux sociaux, infographie, photograhie, BDD, Langage HTML et CSS.
 
-
-    papers:
       - title: The Art of Computer Programming
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
