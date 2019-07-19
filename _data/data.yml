@@ -43,7 +43,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
       Passionnée par l’écriture, je suis en quête de challenges et d’apprentissages de tout ce qui gravite autour de la communication digitale. Je m’intéresse également à tous types de médias, aussi bien sur supports papiers que numériques.
 
@@ -53,12 +53,26 @@ education:
       time: 2019
       details: |
         Formation aux métiers du numérique : Marketing digital, gestion des réseaux sociaux, infographie, photograhie, BDD, Langage HTML et CSS.
+        
+        
+        - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+            Describe your study here lorem ipsum dolor sit amet, consectetuer
+            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+            sociis natoque penatibus et magnis dis parturient montes, nascetur
+            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+            pretium quis, sem.
 
+            - Bullet point
+            - Bullet point
+        
     - degree: Licence Communication et journalisme d'entreprise
       university: Lycée St Félix Nantes - 44
       time: 2001 - 2002
       details: |
-        Apprentissage et maitrise de différentes techniques rédactionnelles
+        Apprentissage et maitrise de différentes techniques rédactionnelles.
 
 Experiences:
     - role: Conseillere vente Immobilier
