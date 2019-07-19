@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Cécile Fiston Paccou
     tagline: Content Manager Junior
-    avatar: Cecile Fiston.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: cecile fiston.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
      # Sidebar links
     email: cecilefistonpaccou@gmail.com
@@ -22,7 +22,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    #langues:
+    langues:
       - idiom: Français
         level: Langue maternelle
 
@@ -32,7 +32,7 @@ sidebar:
       - idiom: Espagnol
         level: Intermédiaire
 
-    #interests:
+    interests:
       - item: Lecture
         link:
 
@@ -42,7 +42,7 @@ sidebar:
       - item: Pilates
         link:
 
-#career-profile:
+career-profile:
     title: Profil
     summary: |
       Passionnée par l’écriture, je suis en quête de challenges et d’apprentissages de tout ce qui gravite autour de la communication digitale. Je m’intéresse également à tous types de médias, aussi bien sur supports papiers que numériques.
@@ -59,7 +59,7 @@ sidebar:
       details: |
         Apprentissage et maitrise de différentes techniques rédactionnelles
 
-#Experiences:
+Experiences:
     - role: Conseillere vente Immobilier
       time: 2018
       company: Laforet Baie Mahault - 971
@@ -78,7 +78,7 @@ sidebar:
           - Montée en compétence des collaborateurs
 
 
-#publications:
+publications:
     title: Diplômes
     
     papers:
