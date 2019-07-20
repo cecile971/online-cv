@@ -43,7 +43,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Profile
+    title: Profil
     summary: |
       Passionnée par l’écriture, je suis en quête de challenges et d’apprentissages de tout ce qui gravite autour de la communication digitale. Je m’intéresse également à tous types de médias, aussi bien sur supports papiers que numériques.
 
@@ -63,13 +63,22 @@ education:
         Apprentissage et maitrise de différentes techniques rédactionnelles.
 
 experiences:
-    - role: Conseillere vente Immobilier
+    - role: Conseillère vente Immobilier
       time: 2018
       company: Laforet Baie Mahault - 971
       details: |
         
           - Mise en vente des biens immobiliers
           - Gestion des visites et du portefeuille client
+          
+    - role : Journaliste 
+      time: 2016
+      company: Asso Saintes 40 - 971
+      details: | 
+      
+          - Rédaction pour un journal touristique: Itw, reportages
+          - Community Management
+
 
     - role: Manager/Formatrice
       time: 2004 - 2014
@@ -78,6 +87,7 @@ experiences:
 
           - Formation et suivi des nouveaux salariés
           - Montée en compétence des collaborateurs
+          
 
 
 publications:
