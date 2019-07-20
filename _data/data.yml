@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Cécile Fiston Paccou
     tagline: Content Manager Junior
-    avatar: Cécile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
      # Sidebar links
     email: cecilefistonpaccou@gmail.com
@@ -87,6 +87,7 @@ publications:
       - title: DU Opérateur numérique
         authors: IUT de St Claude 971 (2019)
         conference: Formation aux métiers du numérique, Marketing digital, gestion des réseaux sociaux, infographie, photograhie, BDD, Langage HTML et CSS.
+        
         
       - title: Licence Communication et journalisme d'entreprise
         authors: Lycée St Félix Nantes - 44 (2001 - 2002)
