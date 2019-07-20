@@ -55,18 +55,6 @@ education:
         Formation aux métiers du numérique : Marketing digital, gestion des réseaux sociaux, infographie, 
         photograhie, BDD, Langage HTML et ddCSS.aa
         
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-            Describe your study here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-            sociis natoque penatibus et magnis dis parturient montes, nascetur
-            ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-            pretium quis, sem.
-
-            - Bullet point
-            - Bullet point
         
     - degree: Licence Communication et journalisme d'entreprise
       university: Lycée St Félix Nantes - 44
@@ -80,7 +68,6 @@ experiences:
       company: Laforet Baie Mahault - 971
       details: |
         
-
           - Mise en vente des biens immobiliers
           - Gestion des visites et du portefeuille client
 
@@ -100,6 +87,11 @@ publications:
       - title: DU Opérateur numérique
         authors: IUT de St Claude 971 (2019)
         conference: Formation aux métiers du numérique, Marketing digital, gestion des réseaux sociaux, infographie, photograhie, BDD, Langage HTML et CSS.
+        
+    papers:
+      - title: Licence Communication et journalisme d'entreprise
+        authors: Lycée St Félix Nantes - 44 (2001 - 2002)
+        conference: Apprentissage et maitrise de différentes techniques rédactionnelles.
 
 
 skills:
